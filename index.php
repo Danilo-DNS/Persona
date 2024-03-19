@@ -57,7 +57,7 @@
             <br><br><br>
             <img src="img/capa_5.jpg" alt="capa do jogo de persona 5" class="capa">
             <h6 class="h">Agora falando no Persona 5 e a cor que domina o jogo com tanta força quanto a emoção da Ira é um vermelho gritante com a ideia de
-                representar o </h6> <h6 class="piada">FAZ O L</h6> <h6> brincadeira a parte o vermelho vivo nesse caso serve para representar a raiva frustração e a
+                representar o vermelho vivo nesse caso serve para representar a raiva frustração e a
                 ansiedade pela Liberdade com a colocada para o jogador ao longo de toda narrativa isso é feito expressando também muito da dor e do
                 sacrifício visto que temos a cor do sangue aqui, no fim o vermelho presente em persona 5 não só serve para tomar conta do game no
                 geral como do jogador também trazendo para fora a vontade para uma revolução e reafirmação da individualidade e existência de cada
