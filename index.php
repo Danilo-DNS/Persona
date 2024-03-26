@@ -65,7 +65,7 @@
                 o alto nível e valor do jogo ao mesmo tempo que se trata de uma cor que busca proporcionar um equilíbrio para mim conversando assim
                 diretamente com os novos temas do título que envolvem saúde mental e trazendo um pouco da determinação e resolução necessária para não
                 ceder ao escapismo</h6>
-
+<br><br>
                 <?php include_once('imc/rodape.php')?>
         </div>
 
