@@ -16,7 +16,7 @@
     </div>
     <div class="container">
         <div class="fundo_preto">
-            <h1 class="titulo">Personagens Jogaveis</h1>
+            <h1 class="titulo">Pares românticos</h1>
             <br>
             <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
