@@ -36,10 +36,6 @@ display: flex;
 align-items: center;
 }
 
-.piada{
-    color: red;
-}
-
 .person_5{
     scale: y;
     height: 420px;
@@ -54,5 +50,4 @@ align-items: center;
     height: 40%;
     width: 40%;
     right: 900px;
-
 }
