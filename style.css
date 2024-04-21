@@ -1,53 +1,117 @@
-.fundo_preto{
+.fundo_preto {
     background-color: black;
     padding: 20px;
     color: white;
 }
-.h{
+
+.h {
     color: white;
 }
 
-.titulo{
+.titulo {
     color: white;
     text-align: center;
 }
-.icon_menu{
+
+.icon_menu {
     width: 10%;
 }
 
-.capa{
+.capa {
     height: 190px;
     width: 150px;
     float: left;
 }
 
-.capa, .h{
+.capa,
+.h {
     margin-right: 15px;
 }
 
-.personagens{
-    float:right;
+.personagens {
+    float: right;
     height: 420px;
 }
 
-.video{
-justify-content: center;
-display: flex;
-align-items: center;
+.video {
+    justify-content: center;
+    display: flex;
+    align-items: center;
 }
 
-.person_5{
-    scale: y;
-    height: 420px;
-}
-
-.teste{
+.roda{
     height: 20%;
     width: 20%;
 }
 
-.logo{
+.logo {
     height: 40%;
     width: 40%;
     right: 900px;
+}
+
+@media (max-width:554px) {
+    .fundo_preto {
+        background-color: black;
+        padding: 20px;
+        color: white;
+    }
+    
+    .h {
+        color: white;
+    }
+    
+    .titulo {
+        color: white;
+        text-align: center;
+    }
+    
+    .icon_menu {
+        width: 10%;
+    }
+    
+    .capa {
+        height: 450px;
+        width: 210px;
+        float: left;
+    }
+    
+    .capa,
+    .h {
+        margin-right: 15px;
+    }
+    
+    .personagens {
+        float: right;
+        height: 420px;
+    }
+    
+    .video {
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+    
+    .logo {
+        height: 40%;
+        width: 40%;
+        right: 900px;
+    }
+
+    .roda{
+        height: 16%;
+        width: 16%;
+    }
+
+    h6{
+        font-size: 14px;
+    }
+
+    .container-fluid{
+        height: 60px;
+    }
+
+    .navbar-nav{
+        height: 120px;
+    }
 }

@@ -16,13 +16,13 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide carosel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/Phantom.gif" class="teste" alt="First slide">
+                    <img src="img/Phantom.gif" class="roda" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img src="img/Koro.gif" class="teste" alt="Second slide">
+                    <img src="img/Koro.gif" class="roda" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img src="img/Teddie.gif" class="teste" alt="Third slide">
+                    <img src="img/Teddie.gif" class="roda" alt="Third slide">
 </div>
             </div>
         </div>

@@ -27,7 +27,7 @@
             <br><br>
 
 
-            <h3 class="titulo">Qual é o significado das cores de cada persona ?</h3>
+            <h4 class="titulo">Qual é o significado das cores de cada persona ?</h4>
 
             <br>
 
