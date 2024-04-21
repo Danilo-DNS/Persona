@@ -32,6 +32,8 @@
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="9" aria-label="Slide 10"></button>
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="10" aria-label="Slide 11"></button>
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="11" aria-label="Slide 12"></button>
+                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="12" aria-label="Slide 13"></button>
+                    
 
                 </div>
                 <div class="carousel-inner">
@@ -41,8 +43,8 @@
                             <h5 class="h">Ren Amamiya</h5>
                             <p class="h"> Ele é um estudante do segundo ano do ensino médio que é expulso por ter
                                 <br> sido falsamente acusado de agressão por um político.
-                                <br>Que criou um grupo que se chama "The Phantom Thief" para fazer que 
-                                <br> pessoas confessase os crimes deles e o Ren é o lider desse grupo que 
+                                <br>Que criou um grupo que se chama "The Phantom Thief" para fazer que
+                                <br> pessoas confessase os crimes deles e o Ren é o lider desse grupo que
                                 <br> seu codinome é "Joker".
                             </p>
                         </div>
@@ -60,7 +62,7 @@
                         <img src="img/Persona_5/ryuji.png" class="personagens" alt="Ryuji">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 class="h">Ryuji Sakamoto</h5>
-                            <p class="h">Ele é um estudante da Shujin Academy e um ex-astro do atletismo que vive uma vida dupla 
+                            <p class="h">Ele é um estudante da Shujin Academy e um ex-astro do atletismo que vive uma vida dupla
                                 <br>como The Phantom Thief. Ele é seu manas.
                                 <br> Seu codinome é "Skull".
                             </p>
@@ -70,11 +72,11 @@
                         <img src="img/Persona_5/ann-phantom.png" class="personagens" alt="Ann">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 class="h">Ann Takamaki</h5>
-                            <p class="h"> Ela é uma estudante da Shujin Academy que vive uma vida dupla 
-                               <br> como The Phantom Thief. Depois de se sentir culpada por não ter
-                               <br> ajudado sua melhor amiga Shiho Suzui, que seria vítima de Kamoshida
-                               <br> ela jurou vingança e fazer Kamoshida confessar seus crimes.
-                            <br> Seu codinome é "Panther".
+                            <p class="h"> Ela é uma estudante da Shujin Academy que vive uma vida dupla
+                                <br> como The Phantom Thief. Depois de se sentir culpada por não ter
+                                <br> ajudado sua melhor amiga Shiho Suzui, que seria vítima de Kamoshida
+                                <br> ela jurou vingança e fazer Kamoshida confessar seus crimes.
+                                <br> Seu codinome é "Panther".
                             </p>
                         </div>
                     </div>
@@ -91,7 +93,7 @@
                         <img src="img/Persona_5/makoto-phantom.png" class="personagens" alt="Makoto">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 class="h">Makoto Niijima</h5>
-                            <p class="h"> Ela é a presidente do conselho estudantil da Shujin Academy, que vive uma vida dupla como membra 
+                            <p class="h"> Ela é a presidente do conselho estudantil da Shujin Academy, que vive uma vida dupla como membra
                                 <br>dos The Phantom Thief. Seu codinome no The Phantom Thief é "Queen".
                             </p>
                         </div>
@@ -100,7 +102,7 @@
                         <img src="img/Persona_5/futaba_phantom.png" class="personagens" alt="Futaba">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 class="h">Futaba Sakura</h5>
-                            <p class="h">Ela é uma hikikomori e um dos alvos dos Phantom Thieves, futuramente se tornando 
+                            <p class="h">Ela é uma hikikomori e um dos alvos dos Phantom Thieves, futuramente se tornando
                                 <br>um membro do grupo. Futaba é a navigator, tendo como principal função lembrar
                                 <br> as fraquezas dos inimigos, mas, ela também pode dar diversos buffs
                                 <br>e cura para os aliados e atrapalhar os inimigos.
@@ -112,7 +114,7 @@
                         <img src="img/Persona_5/haru_phantom.png" class="personagens" alt="Haru">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 class="h">Haru Okumura</h5>
-                            <p class="h">Ela é uma garota rica que frequenta a Academia Shujin e vive uma vida 
+                            <p class="h">Ela é uma garota rica que frequenta a Academia Shujin e vive uma vida
                                 <br>dupla como The Phantom Thief. Ela é a única filha de Kunikazu Okumura,
                                 <br> o quinto maior alvo dos The Phantom Thief.
                                 <br>E o seu codinome é "Noir"
@@ -133,7 +135,7 @@
                         <img src="img/Persona_5/Sumire_phantom.png" class="personagens" alt="Sumire">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 class="h">Sumire Yoshizawa</h5>
-                            <p class="h">Ela é uma personagem jogável de Persona 5 Royal. Ela é uma estudante transferida do primeiro ano 
+                            <p class="h">Ela é uma personagem jogável de Persona 5 Royal. Ela é uma estudante transferida do primeiro ano
                                 <br>da Academia Shujin e uma ginasta talentosa que se envolve com os The Phantom Thief.
                                 <br>Seu codinome é "Violet".
                             </p>
@@ -153,33 +155,36 @@
                         <img src="img/Persona_5/wolf.png" class="personagens" alt="Zenkichi">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 class="h">Zenkichi Hasegawa</h5>
-                            <p class="h">Ele é um personagem jogável de Persona 5 Strikers. Ele é um inspetor de polícia da 
-                                <br>prefeitura de Kyoto encarregado de investigar o último incidente relacionado 
+                            <p class="h">Ele é um personagem jogável de Persona 5 Strikers. Ele é um inspetor de polícia da
+                                <br>prefeitura de Kyoto encarregado de investigar o último incidente relacionado
                                 <br>ao Metaverso.
                             </p>
                         </div>
                     </div>
+                    
+                    </div>
+
+
+                    <button class="carousel-control-prev, h" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next,h" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+
                 </div>
-                <button class="carousel-control-prev, h" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next,h" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
 
+
+                <h1 class="titulo">A localização da vida real de onde aconteceu persona 5</h1>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51862.592707603035!2d139.6514163585532!3d35.66685498323211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb2eb3108d1%3A0xf11cd9b2395b6677!2zU2hpYnV5YSwgVMOzcXVpbywgSmFww6Nv!5e0!3m2!1spt-BR!2sbr!4v1694584694947!5m2!1spt-BR!2sbr" width="1300" height="900" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <?php include_once('imc/rodape.php') ?>
             </div>
-        
-
-        <h1 class="titulo">A localização da vida real de onde aconteceu persona 5</h1>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51862.592707603035!2d139.6514163585532!3d35.66685498323211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb2eb3108d1%3A0xf11cd9b2395b6677!2zU2hpYnV5YSwgVMOzcXVpbywgSmFww6Nv!5e0!3m2!1spt-BR!2sbr!4v1694584694947!5m2!1spt-BR!2sbr" width="1300" height="900" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            <?php include_once('imc/rodape.php') ?>
         </div>
-        </div>
-       
 
-        
+
+
 </body>
 
 </html>
