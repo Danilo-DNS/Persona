@@ -1,17 +1,19 @@
 
   
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-  <div class="container-fluid">
+  <div class="container">
     <a class="navbar-brand" href="index.php"><img src="img/Jack_frost.jpg" class="icon_menu" alt=""> Home</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="true" aria-label="Toggle navigation">
+      <span class="toggler-icon top-bar"></span>
+      <span class="toggler-icon middle-bar"></span>
+      <span class="toggler-icon bottom-bar"></span>
+      <span class="toggler-icon bottom-bar"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <br><br>
       <ul class="navbar-nav">
         <!-- inicio persona 3 -->
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="true">
           <img src="img/makoto.png" class="icon_menu" alt=""> Persona 3
           </a>
           <ul class="dropdown-menu">
@@ -23,7 +25,7 @@
         <!-- final persona 3 -->
         <!-- inicio persona 4 -->
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="true">
           <img src="img/Yu.jpg" class="icon_menu" alt=""> Persona 4
           </a>
           <ul class="dropdown-menu">
@@ -35,7 +37,7 @@
         <!-- final de persona 4 -->
         <!-- inicio de persona 5 -->
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="true">
           <img src="img/Ren.jpg" class="icon_menu" alt=""> Persona 5
           </a>
           <ul class="dropdown-menu">

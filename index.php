@@ -23,15 +23,14 @@
        <button onclick="fundo_B()">modo escuro</button>
        <button  onclick="fundo_W()">modo claro</button>
        </div>
-            <h1 id="text">Persona</h1>
-            <br>
+       <h1 class="text">Persona</h1>
 
             <?php echo '<img class="logo" src="img/index/'.rand(1,4).'.jpg">'?>
             <br><br>
 
             <!-- Texto -->
 
-            <h4 id="text">Qual é o significado das cores de cada persona ?</h4>
+            <h4 class="text">Qual é o significado das cores de cada persona ?</h4>
 
             <br>
 

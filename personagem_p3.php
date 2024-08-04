@@ -180,7 +180,7 @@
         
 
         <h1 class="titulo">A localização da vida real de onde aconteceu persona 3</h1>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d419576.4045734955!2d134.7774226281651!3d34.75708757715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60007d812aed89d9%3A0xc7126106c2f670f4!2zS8WNYmUsIEh5xY1nbywgSmFww6Nv!5e0!3m2!1spt-BR!2sbr!4v1694226805202!5m2!1spt-BR!2sbr" width="1300" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d419576.4045734955!2d134.7774226281651!3d34.75708757715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60007d812aed89d9%3A0xc7126106c2f670f4!2zS8WNYmUsIEh5xY1nbywgSmFww6Nv!5e0!3m2!1spt-BR!2sbr!4v1694226805202!5m2!1spt-BR!2sbr" width="1064" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             <?php include_once('imc/rodape.php')?>
         </div>
         </div>
