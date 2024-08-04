@@ -1,0 +1,91 @@
+.titulo {
+    text-align: center;
+}
+
+.icon_menu {
+    width: 10%;
+ 
+}
+
+.capa {
+    height: 190px;
+    width: 150px;
+    float: left;
+}
+
+.capa,
+.h {
+    margin-right: 15px;
+}
+
+.personagens {
+    float: right;
+    height: 420px;
+}
+
+.video {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.roda{
+    height: 20%;
+    width: 20%;
+}
+
+.logo {
+    height: 40%;
+    width: 40%;
+    right: 900px;
+}
+
+@media (max-width:554px) {
+    
+    .titulo {
+        text-align: center;
+    }
+    
+    .icon_menu {
+        width: 10%;
+    }
+    
+    .capa {
+        height: 450px;
+        width: 210px;
+        float: left;
+    }
+    
+    .capa,
+    .h {
+        margin-right: 15px;
+    }
+    
+    .personagens {
+        float: right;
+        height: 420px;
+    }
+    
+    .video {
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+    
+    .logo {
+        height: 40%;
+        width: 40%;
+        right: 900px;
+    }
+
+    .roda{
+        height: 16%;
+        width: 16%;
+    }
+
+    h6{
+        font-size: 14px;
+    }
+
+
+}
