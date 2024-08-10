@@ -37,7 +37,7 @@
 
                     <div class="carousel-item active" data-bs-interval="10000">
                         <img src="img/Persona_5/ann.png" class="personagens" alt="Ann">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Ann Takamaki</h5>
                             <p class="h"> Ela é uma estudante da Shujin Academy que vive uma vida dupla
                                 <br> como The Phantom Thief. Depois de se sentir culpada por não ter
@@ -49,7 +49,7 @@
                     </div>
                     <div class="carousel-item ">
                         <img src="img/Persona_5/takemi.png" class="personagens" alt="protagonista">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Tae Takemi</h5>
                             <p class="h"> Ela é uma médica de rua que possui uma clínica em Yongen-Jaya, não muito longe do Café Leblanc.
                                 <br> Sua clínica serve como cabine de remédios do jogador durante todo o jogo. <a href="https://youtu.be/VTMQILbhzLA?si=1E_v1tYAPfAyCjyC">Ver video</a>
@@ -58,7 +58,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_5/kawakami.png" class="personagens" alt="Morgana">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Sadayo Kawakami</h5>
                             <p class="h">Kawakami é uma professora altamente competente e profissional que nunca deixa seu
                                 <br>estresse e exaustão crescentes aparecerem visivelmente em nenhum de seus trabalhos.
@@ -68,7 +68,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_5/makoto.png" class="personagens" alt="Makoto">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Makoto Niijima</h5>
                             <p class="h"> Ela é a presidente do conselho estudantil da Shujin Academy, que vive uma vida dupla como membra
                                 <br>dos The Phantom Thief. Seu codinome no The Phantom Thief é "Queen". <a href="https://youtu.be/yxUAeoaGXSY?si=6i_408VAogbhk4cb">Ver o video</a>
@@ -77,7 +77,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_5/Ohya.png" class="personagens" alt="Akechi">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Ichiko Ohya</h5>
                             <p class="h">Ela é uma paparazza sem escrúpulos. <a href="https://youtu.be/AGr7Yb6my0U?si=I50aGjKIu3Zh4d8V">Ver video</a>
                             </p>
@@ -85,7 +85,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_5/Chihaya.png" class="personagens" alt="Yusuke">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Chihaya Mifune</h5>
                             <p class="h">Ela é uma cartomante ativa em Shinjuku. <a href="https://youtu.be/6t0cwc9HV2o?si=96rhtCdk7nScR3Xk">Ver o video</a>
                             </p>
@@ -93,7 +93,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_5/futaba.png" class="personagens" alt="Futaba">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Futaba Sakura</h5>
                             <p class="h">Ela é uma hikikomori e um dos alvos dos Phantom Thieves, futuramente se tornando
                                 <br>um membro do grupo. Futaba é a navigator, tendo como principal função lembrar
@@ -105,7 +105,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_5/Hifumi.png" class="personagens" alt="Ryuji">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Hifumi Togo</h5>
                             <p class="h">Ela é uma campeã de Shogi conhecida por nunca perder uma partida. <a href="https://youtu.be/y88vWlLfbfg?si=M_6nL0KZ9ewgMr-i">Ver video</a>
                             </p>
@@ -113,7 +113,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_5/haru.png" class="personagens" alt="Haru">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Haru Okumura</h5>
                             <p class="h">Ela é uma garota rica que frequenta a Academia Shujin e vive uma vida
                                 <br>dupla como The Phantom Thief. Ela é a única filha de Kunikazu Okumura,
@@ -124,7 +124,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_5/Yoshizawa.png" class="personagens" alt="Sumire">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Sumire Yoshizawa</h5>
                             <p class="h">Ela é uma personagem jogável de Persona 5 Royal. Ela é uma estudante transferida do primeiro ano
                                 <br>da Academia Shujin e uma ginasta talentosa que se envolve com os The Phantom Thief.

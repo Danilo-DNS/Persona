@@ -7,7 +7,6 @@
       <span class="toggler-icon top-bar"></span>
       <span class="toggler-icon middle-bar"></span>
       <span class="toggler-icon bottom-bar"></span>
-      <span class="toggler-icon bottom-bar"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">

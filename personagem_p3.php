@@ -40,7 +40,7 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="2000">
                         <img src="img/Persona_3/makoto.png" class="personagens" alt="protagonista">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Makoto Yuki</h5>
                             <p >Um aluno do segundo ano que se transferiu para a Gekkoukan High School na primavera, retornando
                                 <br>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Yukari.png" class="personagens" alt="Yukari">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Yukari Takeba</h5>
                             <p >Aluna do segundo ano da Gekkoukan High School e colega de classe do Protagonista.
                                 <br> Sua personalidade alegre e boa aparência atraem muitos admiradores, mas por trás das
@@ -66,7 +66,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Junpei.png" class="personagens" alt="junpei">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Junpei Iori</h5>
                             <p >Outro colega do Protagonista, ao lado de Yukari. Ele desperta para suas habilidades de Persona logo após 
                                 <br>a transferência do Protagonista para a escola, levando-o a se juntar ao resto do SEES no Dormitório Iwatodai.
@@ -78,7 +78,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Akihiko.png" class="personagens" alt="Akihiko">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Akihiko Sanada</h5>
                             <p >Aluno do terceiro ano da Gekkoukan High School e um dos membros fundadores da S.E.E.S.
                                 <br> Ele é o capitão do time de boxe e também se destaca nos estudos, o que lhe rendeu muitos fãs na escola.
@@ -89,7 +89,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/mitsuru.png" class="personagens" alt="mitsuru">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Mitsuru Kirijo</h5>
                             <p >A herdeira de uma poderosa corporação internacional, o Grupo Kirijo. Ela está no terceiro ano da
                                 <br> Gekkoukan High School e atua como presidente do conselho estudantil. Ela também lidera S.E.E.S. 
@@ -104,7 +104,7 @@
                     </div>
                     <div class="carousel-item " data-bs-interval="2000">
                         <img src="img/Persona_3/Fuuka.png" class="personagens" alt="fuuka">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Fuuka Yamagishi</h5>
                             <p >Uma aluna tranquila e calma do segundo ano na Gekkoukan High School. Alunos menos íntegros aproveitam sua timidez, transformando-a em alvo de bullying.
                                 <br>
@@ -116,7 +116,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Koromaru.png" class="personagens" alt="Koromaru">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Koromaru</h5>
                             <p >Um cachorro que desperta para o poder da Persona após um acontecimento trágico.
                                 <br> Como seu proprietário original o sacerdote do vizinho Santuário Naganaki do dormitório faleceu, 
@@ -128,7 +128,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/aigis.png" class="personagens" alt="aigis">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Aigis</h5>
                             <p >Uma arma de supressão anti-sombra feita pelo homem, 7ª geração. Ela se junta ao SEES 
                                 <br>
@@ -143,7 +143,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Ken.png" class="personagens" alt="Ken">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Ken Amada</h5>
                             <p >O membro mais jovem do SEES um aluno da 5ª série da Gekkoukan Elementary. Depois de 
                                 <br>perder a mãe em um acidente, ele passa a morar no Dormitório Iwatodai.
@@ -154,7 +154,7 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/shinjiro.png" class="personagens" alt="Shinjiro">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 >Shinjiro Aragaki</h5>
                             <p >Um terceiro ano na Gekkoukan High, embora raramente possa ser visto na escola.
                                 <br> Ele foi membro fundador do
