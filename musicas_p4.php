@@ -13,9 +13,7 @@
 
 <body>
     <!-- Menu -->
-    <div class="row">
         <?php include('imc/menu.php'); ?>
-    </div>
     <!-- /Menu -->
 
          <!-- Container  --> 

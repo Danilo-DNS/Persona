@@ -11,9 +11,7 @@
 </head>
 
 <body>
-    <div class="row">
         <?php include('imc/menu.php'); ?>
-    </div>
     <div class="container">
         <div class="fundo_preto">
             <h1 class="titulo">Pares românticos</h1>

@@ -40,6 +40,10 @@
     right: 900px;
 }
 
+.mapa{
+    height: 750px;
+    width: 1080px;
+}
 @media (max-width:554px) {
     
     .titulo {
@@ -51,8 +55,8 @@
     }
     
     .capa {
-        height: 450px;
-        width: 210px;
+        height: 270px;
+        width: 270px;
         float: left;
     }
     
@@ -62,8 +66,8 @@
     }
     
     .personagens {
-        float: right;
         height: 420px;
+        margin-right: 300px;
     }
     
     .video {
@@ -73,9 +77,11 @@
     }
     
     .logo {
-        height: 40%;
-        width: 40%;
-        right: 900px;
+        height: 90%;
+        width: 80%;
+        justify-content: center;
+        display: flex;
+        align-items: center;
     }
 
     .roda{
@@ -87,5 +93,17 @@
         font-size: 14px;
     }
 
+    .mapa{
+        height: 320px;
+        width: 290px;
+    }
+    
+   
 
+    .algo{
+        margin-right: 10px;
+        height: 270px;
+
+    }
+    
 }

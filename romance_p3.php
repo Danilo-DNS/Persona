@@ -11,9 +11,7 @@
 </head>
 
 <body>
-    <div class="row">
         <?php include('imc/menu.php'); ?>
-    </div>
     <div class="container">
         <div class="fundo_preto">
             <h1 class="titulo">Pares românticos</h1>
@@ -32,7 +30,7 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="10000">
                         <img src="img/Persona_3/Yuko.png" class="personagens" alt="protagonista">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Yuko Nishiwaki</h5>
                             <p class="h">O jogador conhece Yuko pela primeira vez depois de ingressar em uma das três equipes atléticas
                                 <br> da Gekkoukan High School. Quer o jogador decida ingressar na Equipe de Kendo, Natação ou Atletismo,
@@ -43,7 +41,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_3/Chihiro.png" class="personagens" alt="junpei">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Chihiro Fushimi</h5>
                             <p class="h">O tesoureiro do Conselho Estudantil. Chihiro é uma pessoa muito tímida, não se sente 
                                 <br>confortável perto de homens e tem dificuldade em se defender. Devido a isso, 
@@ -53,8 +51,8 @@
                         </div>
                     </div>
                     <div class="carousel-item" >
-                        <img src="img/Persona_3/Yukari.png" class="personagens" alt="Yukari">
-                        <div class="carousel-caption d-none d-md-block">
+                        <img src="img/Persona_3/yukari_rom.png" class="personagens" alt="Yukari">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Yukari Takeba</h5>
                             <p class="h">Aluna do segundo ano da Gekkoukan High School e colega de classe do Protagonista.
                                 <br> Sua personalidade alegre e boa aparência atraem muitos admiradores, mas por trás das
@@ -67,7 +65,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_3/Fuuka.png" class="personagens" alt="fuuka">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Fuuka Yamagishi</h5>
                             <p class="h">Uma aluna tranquila e calma do segundo ano na Gekkoukan High School. Alunos menos íntegros aproveitam sua timidez, transformando-a em alvo de bullying.
                                 <br>
@@ -80,7 +78,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_3/mitsuru.png" class="personagens" alt="mitsuru">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Mitsuru Kirijo</h5>
                             <p class="h">A herdeira de uma poderosa corporação internacional, o Grupo Kirijo. Ela está no terceiro ano da
                                 <br> Gekkoukan High School e atua como presidente do conselho estudantil. Ela também lidera S.E.E.S.
@@ -96,7 +94,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_3/Elizabeth.png" class="personagens" alt="Koromaru">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Elizabeth</h5>
                             <p class="h">Elizabeth é uma das atendentes do Velvet Room da Persona 3. Ela é a irmã mais nova de Margaret e irmã mais velha de Theodore e Lavenza.
                                 <a href="https://youtu.be/_9VV6lmDcsU?si=e8D5nR99UxZXdPen" target="_blank">Ver o video</a>
@@ -105,7 +103,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/Persona_3/aigis.png" class="personagens" alt="aigis">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-sm-block">
                             <h5 class="h">Aigis</h5>
                             <p class="h">Uma arma de supressão anti-sombra feita pelo homem, 7ª geração. Ela se junta ao SEES
                                 <br>

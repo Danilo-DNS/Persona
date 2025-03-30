@@ -11,158 +11,108 @@
 </head>
 
 <body>
-    <div class="row">
         <?php include('imc/menu.php'); ?>
-    </div>
     <div class="container">
 
     <div class="botao">
        <button onclick="fundo_B()">modo escuro</button>
-       <button  onclick="fundo_W()">modo claro</button>
-       </div>
+       <button onclick="fundo_W()">modo claro</button>
+    </div>
        
             <h1 >Personagens Jogaveis</h1>
             <br>
             <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
-                <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 9"></button>
-                    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="9" aria-label="Slide 10"></button>
-
-                </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="2000">
                         <img src="img/Persona_3/makoto.png" class="personagens" alt="protagonista">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Makoto Yuki</h5>
-                            <p >Um aluno do segundo ano que se transferiu para a Gekkoukan High School na primavera, retornando
-                                <br>
-                                para a ilha onde morou quando criança. Depois que um encontro com um monstro assustador o 
-                                <br>
-                                desperta para o poder da Persona, ele é recrutado pelo Specialized Extracurricular Execution Squad 
-                                <br>(SEES).
-
+                            <p >Makoto Yuki, protagonista de Persona 3,é um estudante reservado que lidera o SEES para enfrentar a Dark Hour e combater Shadows.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/Persona_3/Yukari.png" class="personagens" alt="Yukari">
-                        <div class="carousel-caption d-sm-block">
+                        <img src="img/Persona_3/Yukari.png" class="algo" alt="Yukari">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Yukari Takeba</h5>
-                            <p >Aluna do segundo ano da Gekkoukan High School e colega de classe do Protagonista.
-                                <br> Sua personalidade alegre e boa aparência atraem muitos admiradores, mas por trás das
-                                <br> gentilezas, ela é bastante teimosa e distante. Ela é membro do SEES comousuária 
-                                <br>de Persona, e depois que ela e o Protagonista se aproximam de uma Sombra,
-                                 <br> ela reconsidera sua falta de experiência em batalha e se junta a ele na linha de frente.
+                            <p >Yukari Takeba é uma estudante do SEES, conhecida por sua personalidade calorosa, mas com 
+                                 traumas familiares profundos.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Junpei.png" class="personagens" alt="junpei">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Junpei Iori</h5>
-                            <p >Outro colega do Protagonista, ao lado de Yukari. Ele desperta para suas habilidades de Persona logo após 
-                                <br>a transferência do Protagonista para a escola, levando-o a se juntar ao resto do SEES no Dormitório Iwatodai.
+                            <p >Junpei Iori é um membro do SEES, um jovem despreocupado e amigável, 
                                 <br>
-                                Um grande palhaço da turma, ele está sempre pronto para brincar e aliviar o clima... o que nem sempre
-                                <br> é apreciado pelo revirado Yukari.
+                                mas com inseguranças que busca superar ao provar seu valor.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Akihiko.png" class="personagens" alt="Akihiko">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Akihiko Sanada</h5>
-                            <p >Aluno do terceiro ano da Gekkoukan High School e um dos membros fundadores da S.E.E.S.
-                                <br> Ele é o capitão do time de boxe e também se destaca nos estudos, o que lhe rendeu muitos fãs na escola.
-                                <br>
-                                Ele tem uma personalidade fria e estóica, mas às vezes pode ser teimoso e até um pouco ingênuo.
+                            <p >Akihiko Sanada é um membro do SEES, dedicado e disciplinado, 
+                                conhecido por sua paixão por treinar e proteger os outros após enfrentar perdas pessoais.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/mitsuru.png" class="personagens" alt="mitsuru">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Mitsuru Kirijo</h5>
-                            <p >A herdeira de uma poderosa corporação internacional, o Grupo Kirijo. Ela está no terceiro ano da
-                                <br> Gekkoukan High School e atua como presidente do conselho estudantil. Ela também lidera S.E.E.S. 
-                                <br>e organiza suas operações.
-                                Com atitude empresarial, ela gosta de manter tudo em ordem.
-                                <br> Ela é muito respeitada como uma estudante de honra que se destaca tanto nos estudos
-                                <br> quanto nas atividades extracurriculares,
-                                mas devido à sua educação de alta classe, 
-                                <br>ela pode ignorar coisas que a maioria das pessoas consideraria senso comum.
+                            <p >Mitsuru Kirijo é uma jovem elegante e inteligente, 
+                                herdeira do Grupo Kirijo, que carrega o peso de sua responsabilidade familiar e busca
+                                redimir os erros de sua linhagem.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item " data-bs-interval="2000">
                         <img src="img/Persona_3/Fuuka.png" class="personagens" alt="fuuka">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Fuuka Yamagishi</h5>
-                            <p >Uma aluna tranquila e calma do segundo ano na Gekkoukan High School. Alunos menos íntegros aproveitam sua timidez, transformando-a em alvo de bullying.
-                                <br>
-                                Como resultado do bullying, ela fica presa na Dark Hour e precisa ser resgatada pelo Protagonista e seus amigos.
-                                <br>
-                                Essa experiência a leva a despertar para o poder da Persona e decidir entrar para S.E.E.S. ela mesma.
+                            <p >Fuuka Yamagishi é uma tímida e gentil membro do SEES,
+                                que atua como estrategista com habilidades de suporte e comunicação excepcionais.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Koromaru.png" class="personagens" alt="Koromaru">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Koromaru</h5>
-                            <p >Um cachorro que desperta para o poder da Persona após um acontecimento trágico.
-                                <br> Como seu proprietário original o sacerdote do vizinho Santuário Naganaki do dormitório faleceu, 
-                                <br>o protagonista e seus amigos o consideram um membro de pleno direito do SEES.
-                                Inteligente, leal e amigável,
-                                <br> ele rapidamente se torna um membro querido do grupo.
+                            <p >Koromaru é o fiel cachorro do SEES, portador de Persona, leal e corajoso,
+                                <br>
+                                que luta ao lado do time para honrar seu falecido dono.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/aigis.png" class="personagens" alt="aigis">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Aigis</h5>
-                            <p >Uma arma de supressão anti-sombra feita pelo homem, 7ª geração. Ela se junta ao SEES 
-                                <br>
-                                como um andróide com um coração humano, concedendo-lhe o poder de Persona.
-                                <br>
-                                Ela nutre uma ligação misteriosa com o Protagonista desde o primeiro dia em que se conheceram. 
-                                <br>
-                                Inicialmente parecendo fria e robótica, ela começa a descobrir mais emoções
-                                <br> humanas através de suas experiências com o grupo.
+                            <p >Aigis é uma androide do SEES, criada para combater Shadows, 
+                                que desenvolve emoções humanas e um forte laço com o protagonista.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/Ken.png" class="personagens" alt="Ken">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Ken Amada</h5>
-                            <p >O membro mais jovem do SEES um aluno da 5ª série da Gekkoukan Elementary. Depois de 
-                                <br>perder a mãe em um acidente, ele passa a morar no Dormitório Iwatodai.
-                                <br>
-                                Depois de despertar para suas habilidades de Persona, ele se junta ao SEES por conta própria.
+                            <p >Ken Amada é o mais jovem membro do SEES, maduro para sua idade, 
+                             motivado pela vingança, mas em busca de superar sua dor e encontrar seu propósito.
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="img/Persona_3/shinjiro.png" class="personagens" alt="Shinjiro">
-                        <div class="carousel-caption d-sm-block">
+                        <div class="carousel-caption d-sm car-tex">
                             <h5 >Shinjiro Aragaki</h5>
-                            <p >Um terceiro ano na Gekkoukan High, embora raramente possa ser visto na escola.
-                                <br> Ele foi membro fundador do
-                                 SEES ao lado de Mitsuru e Akihiko. Depois de se distanciar por cerca
-                                 <br> de dois anos, uma certa reviravolta o convence a voltar ao grupo.
-
-                                Embora inacessível à primeira
-                                <br> vista, por baixo do exterior áspero há um coração gentil e um talento especial para cozinhar.
+                            <p >Shinjiro Aragaki é um ex-membro do SEES, reservado e atormentado
+                                 por seu passado,
+                                 que retorna ao grupo em busca de redenção.
                             </p>
                         </div>
                     </div>
@@ -179,14 +129,14 @@
             </div>
         
 
-        <h1 class="titulo">A localização da vida real de onde aconteceu persona 3</h1>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d419576.4045734955!2d134.7774226281651!3d34.75708757715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60007d812aed89d9%3A0xc7126106c2f670f4!2zS8WNYmUsIEh5xY1nbywgSmFww6Nv!5e0!3m2!1spt-BR!2sbr!4v1694226805202!5m2!1spt-BR!2sbr" width="1064" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <h2 class="titulo">A localização da vida real de onde aconteceu persona 3</h2>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d419576.4045734955!2d134.7774226281651!3d34.75708757715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60007d812aed89d9%3A0xc7126106c2f670f4!2zS8WNYmUsIEh5xY1nbywgSmFww6Nv!5e0!3m2!1spt-BR!2sbr!4v1694226805202!5m2!1spt-BR!2sbr" class="mapa" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             <?php include_once('imc/rodape.php')?>
         </div>
         </div>
         <br><br><br>
 
-        <script src="scripit.js"></script>
+        <script src="script.js"></script>
         </body>
 
 </html>
