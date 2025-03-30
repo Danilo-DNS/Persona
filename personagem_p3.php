@@ -32,7 +32,7 @@
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/Persona_3/Yukari.png" class="algo" alt="Yukari">
+                        <img src="img/Persona_3/Yukari.png" class="personagens" alt="Yukari">
                         <div class="carousel-caption d-sm car-tex">
                             <h5 >Yukari Takeba</h5>
                             <p >Yukari Takeba é uma estudante do SEES, conhecida por sua personalidade calorosa, mas com 
